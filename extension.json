@@ -1,8 +1,13 @@
 {
-  "identifier": "org.yosemite",
+  "identifier": "org.avila",
   "name": "Yosemite",
-  "organization": "MyOrganization",
-  "description": "Lorem ipsum, dolor sit amet.",
+  "organization": "avila",
+  "description": "Themes based on GitHub's official VS Code themes.",
   "version": "1.0",
+  "repository": "https://github.com/migueravila/Yosemite",
+  "funding": "https://www.buymeacoffee.com/migueravila",
+  "bugs": {
+    "email": "miguel@avila.works"
+  },
   "categories": ["themes"]
 }
