@@ -1,6 +1,6 @@
 # Yosemite
 
-⛰️ The pleasent color theme for Nova
+⛰️ Minimal yet colorful theme for Nova.
 
 <!--
 👋 Hello! As Nova users browse the extensions library, a good README can help them understand what your extension does, how it works, and what setup or configuration it may require.

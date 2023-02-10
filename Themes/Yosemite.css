@@ -370,3 +370,61 @@ style.value.color.named {
 style.value.identifier.function {
   color: hsl(160, 80%, 55%);
 }
+
+/* Terminal */
+
+terminal.black {
+  color: hsl(60, 0%, 44%);
+}
+
+terminal.bright-black {
+  color: hsl(60, 0%, 44%);
+}
+
+terminal.red {
+  color: hsl(2, 44%, 53%);
+}
+
+terminal.bright-red {
+  color: hsl(2, 44%, 53%);
+}
+
+terminal.green {
+  color: hsl(87, 28%, 52%);
+}
+
+terminal.bright-green {
+  color: hsl(87, 28%, 52%);
+}
+
+terminal.yellow {
+  color: hsl(31, 63%, 60%);
+}
+
+terminal.bright-yellow {
+  color: hsl(31, 63%, 60%);
+}
+
+terminal.blue {
+  color: hsl(200, 37%, 49%);
+}
+
+terminal.bright-blue {
+  color: hsl(200, 37%, 49%);
+}
+
+terminal.magenta {
+  color: hsl(284, 23%, 48%);
+}
+
+terminal.bright-magenta {
+  color: hsl(284, 23%, 48%);
+}
+
+terminal.cyan {
+  color: hsl(200, 37%, 49%);
+}
+
+terminal.bright-cyan {
+  color: hsl(200, 37%, 49%);
+}
