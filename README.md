@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/migueravila/Yosemite/blob/master/docs/logo.png">
+	<img src="https://github.com/migueravila/Yosemite/blob/main/docs/logo.png">
 </div>
 
 ![](docs/header.png)
