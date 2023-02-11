@@ -182,7 +182,7 @@ identifier.type {
 identifier.constant,
 identifier.global,
 identifier.variable {
-  color: hsl(270, 80%, 80%);
+  color: hsl(285, 23%, 66%);
 }
 
 identifier.constant {
@@ -214,7 +214,7 @@ identifier.method {
 }
 
 identifier.key {
-  color: hsl(270, 80%, 80%);
+  color: hsl(285, 23%, 66%);
 }
 identifier.argument {
   color: hsl(69, 7%, 81%);
@@ -224,6 +224,7 @@ identifier.argument.prefix {
 }
 
 /* Strings */
+
 string {
   color: hsl(69, 7%, 81%);
 }
@@ -231,19 +232,19 @@ string.delimiter {
   color: hsl(5, 80%, 60%);
 }
 string.escape {
-  color: hsl(5, 80%, 80%);
+  color: hsl(31, 63%, 60%);
 }
 string.key {
-  color: hsl(270, 80%, 80%);
+  color: hsl(285, 23%, 66%);
 }
 string-keyword {
-  color: hsl(30, 100%, 90%);
+  color: hsl(31, 63%, 60%);
 }
 string-template {
-  color: hsl(30, 100%, 70%);
+  color: hsl(31, 63%, 60%);
 }
 regex {
-  color: hsl(30, 100%, 70%);
+  color: hsl(31, 63%, 60%);
 }
 regex.escape {
   color: hsl(30, 100%, 80%);
@@ -253,14 +254,15 @@ cdata {
 }
 
 /* Markup */
+
 markup.heading {
-  color: hsl(27, 100%, 70%);
+  color: hsl(87, 28%, 52%);
 }
 markup.line {
   color: hsl(60, 43%, 56%);
 }
 markup.bold {
-  color: hsl(196, 49%, 53%);
+  color: hsl(31, 63%, 60%);
   font-weight: bold;
 }
 markup.italic {
@@ -277,10 +279,11 @@ markup.code {
   background-color: rgba(128, 128, 128, 0.2);
 }
 markup.link {
-  color: hsl(210, 100%, 70%);
+  color: hsl(69, 7%, 81%);
 }
 
 /* Types */
+
 definition.class.name,
 definition.type.name,
 definition.package.name,
@@ -290,6 +293,7 @@ definition.struct.name {
 }
 
 /* Members */
+
 definition.property.name {
 }
 definition.function.name,
@@ -297,6 +301,7 @@ definition.method.name {
 }
 
 /* Tags */
+
 tag {
   color: hsl(200, 37%, 49%);
 }
@@ -304,16 +309,16 @@ tag.name {
   color: hsl(2, 44%, 53%);
 }
 tag.framework {
-  color: hsl(280, 30%, 50%);
+  color: hsl(285, 23%, 66%);
 }
 tag.framework.name {
-  color: hsl(280, 60%, 70%);
+  color: hsl(2, 44%, 53%);
 }
 tag.attribute.name {
   color: hsl(31, 63%, 60%);
 }
 tag.framework.attribute.name {
-  color: hsl(320, 60%, 70%);
+  color: hsl(2, 44%, 53%);
 }
 tag.attribute.value {
   color: hsl(87, 28%, 52%);
@@ -329,8 +334,6 @@ tag.attribute.value.link {
 }
 
 /* Styles */
-style.punctuaction.delimeter {
-}
 
 style.at {
   color: hsl(2, 44%, 53%);
@@ -368,7 +371,7 @@ style.value.color.named {
   color: hsl(210, 100%, 70%);
 }
 style.value.identifier.function {
-  color: hsl(160, 80%, 55%);
+  color: hsl(87, 28%, 52%);
 }
 
 /* Terminal */
